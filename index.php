@@ -6,18 +6,18 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Pernikahan &mdash; Ahmad Zaid & Laila</title>
+	<title>Pernikahan &mdash; Reno & Reni</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Pernikahan Ahmad Zaid & Laila" />
+	<meta name="description" content="Pernikahan Reno & Reni" />
 	<meta name="author" content="Djazuli IT" />
 
 
-	<meta property="og:title" content="Pernikahan Ahmad Zaid & Laila"/>
+	<meta property="og:title" content="Pernikahan Reno & Reni"/>
 	<meta property="og:image" content="images/nikah.png"/>
 	<meta property="og:url" content=""/>
-	<meta property="og:site_name" content="Pernikahan Ahmad Zaid & Laila"/>
-	<meta property="og:description" content="Pernikahan Ahmad Zaid & Laila"/>
-	<meta name="twitter:title" content="Pernikahan Ahmad Zaid & Laila" />
+	<meta property="og:site_name" content="Pernikahan Reno & Reni"/>
+	<meta property="og:description" content="Pernikahan Reno & Reni"/>
+	<meta name="twitter:title" content="Pernikahan Reno & Reni" />
 	<meta name="twitter:image" content="images/nikah.png" />
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
@@ -85,7 +85,7 @@
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<h1>Zaid &amp; Laila</h1>
+							<h1>Reni &amp; Reno</h1>
 							<h2>Kami Akan Menikah</h2>
 							<div class="simply-countdown simply-countdown-one"></div>
 							<p><a href="#" class="btn btn-default btn-sm">Mohon Doa Restu</a></p>
@@ -101,7 +101,7 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
 					<h2>Assalamualaikum!</h2>
-					<h3>Ahad, 3 Juli 2022 Maduran, Lamongan</h3>
+					<h3>Ahad, 23 Juni 2024 Garut, Banjarwangi</h3>
 					<p>Akad Nikah Kami</p>
 				</div>
 			</div>
@@ -111,7 +111,7 @@
 						<img src="images/1.png" alt="groom" class="img-responsive">
 					</div>
 					<div class="desc-groom">
-						<h3>Ahmad Zaid., S.Pd.</h3>
+						<h3>Reni., S.Pd.</h3>
 						<p>Putra dari (Alm) Bapak Karjimin & Ibu Sukayah</p>
 					</div>
 				</div>
@@ -121,7 +121,7 @@
 						<img src="images/2.png" alt="groom" class="img-responsive">
 					</div>
 					<div class="desc-bride">
-						<h3>Laila  Nailatul Yusro, S.Pd.</h3>
+						<h3>Reno, S.Pd.</h3>
 						<p>Putri dari Bapak H.Moh. Yusuf & Ibu Hj. Lilis Sudarwati</p>
 					</div>
 				</div>
@@ -152,10 +152,10 @@
 									</div>
 									<div class="event-col">
 										<i class="icon-calendar"></i>
-										<span>Ahad 03</span>
-										<span>Juli, 2022</span>
+										<span>Ahad 23</span>
+										<span>Juni, 2024</span>
 									</div>
-									<p>Bertempat di Masjid Jami' Baitur Rahim Desa Pangean Kec. Maduran Kab. Lamongan</p>
+									<p>Bertempat di Masjid Jami' Baitur Rahim Desa Banjarwangi Kec. cigerek. garut</p>
 								</div>
 							</div>
 							<div class="col-md-6 col-sm-6 text-center">
@@ -168,10 +168,10 @@
 									</div>
 									<div class="event-col">
 										<i class="icon-calendar"></i>
-										<span>Ahad, 3</span>
-										<span>Juli, 2022</span>
+										<span>Ahad, 23</span>
+										<span>Juni, 2024</span>
 									</div>
-									<p>Kediaman Mempelai Wanita Jl. Bengawan Solo RT/RW 06/02 Desa Pangean Kec. Maduran</p>
+									<p>Kediaman Mempelai Wanita Jl. Bojong RT/RW 06/02 Desa bojong Kec. banjarwangi</p>
 								</div>
 							</div>
 						</div>
@@ -264,7 +264,7 @@
 			<div class="row copyright">
 				<div class="col-md-12 text-center">
 					<p>
-						<small class="block">&copy; 2022 <a href="djazuli.my.id">Djazuli Design</a>.</small> 
+						<small class="block">&copy; 2024 <a href="djazuli.my.id">Djazuli Design</a>.</small> 
 					</p>
 				</div>
 			</div>
@@ -335,4 +335,3 @@
 
 	</body>
 </html>
-
